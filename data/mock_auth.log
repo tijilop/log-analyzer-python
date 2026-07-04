@@ -1,0 +1,6 @@
+Jul 04 10:15:21 server1 sshd[4321]: Accepted password for tijil from 192.168.1.15 port 49211 ssh2
+Jul 04 11:02:14 server1 sshd[4325]: Failed password for root from 203.0.113.5 port 39422 ssh2
+Jul 04 11:02:18 server1 sshd[4325]: Failed password for root from 203.0.113.5 port 39450 ssh2
+Jul 04 11:05:40 server1 sshd[4410]: Failed password for invalid user admin from 198.51.100.12 port 51120 ssh2
+Jul 04 11:20:01 server1 CRON[4450]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 04 11:32:11 server1 sshd[4500]: Failed password for guest from 203.0.113.5 port 41223 ssh2
